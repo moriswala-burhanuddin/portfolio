@@ -1,0 +1,13 @@
+burhanuddin/db.sqlite3
+burhanuddin/__init__.py
+burhanuddin/admin.py
+burhanuddin/asgi.py
+burhanuddin/forms.py
+burhanuddin/models.py
+burhanuddin/settings.py
+burhanuddin/urls.py
+burhanuddin/views.py
+burhanuddin/wsgi.py
+
+burhanuddin/**/__pycache__/
+burhanuddin/**/migrations/
