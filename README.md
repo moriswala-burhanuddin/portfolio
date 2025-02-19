@@ -5,7 +5,8 @@
 With a focus on advanced UI/UX design, I craft visually appealing and professional web solutions. My portfolio reflects my commitment to creating modern, efficient, and scalable web applications. Explore my work at WebVisionary and connect with me for collaboration or inquiries.
 
 <a href="https://webvisionary.pythonanywhere.com/"  target="_blank">Webvisionary</a>
+<br>
 
-activate env : burhanuddin/scripts/activate
+activate env : burhanuddin/scripts/activate <br>
 run this project : python manage.py runserver
 
