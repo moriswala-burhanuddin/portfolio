@@ -7,7 +7,7 @@ With a focus on advanced UI/UX design, I craft visually appealing and profession
 
 <a href="https://webvisionary.pythonanywhere.com/"  target="_blank">Webvisionary</a>
 <br>
-<img src="static/images/bg1.png" alt="Logo" width="200">
+
 
 activate env : burhanuddin/scripts/activate <br>
 run this project : python manage.py runserver
